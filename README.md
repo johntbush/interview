@@ -4,7 +4,7 @@ This project represents a developers first pass at implementing a bulk user impo
 The requirements are to import user records into a MySQL database in bulk in Java.
 The schema for the table follows.
 
-A junior engineer has submitted this work for review.
+A junior engineer has submitted this work for review.  The builds and runs.
 Your job it to code review this work, provide feedback on the approach taken and offer suggestions.
 
 Pay attention to tests, frameworks selected, logging, and look for security and or performance considerations.
